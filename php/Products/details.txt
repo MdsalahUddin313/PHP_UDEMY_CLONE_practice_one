@@ -1,0 +1,29 @@
+
+
+<?php
+        $i=1;
+    if(isset($p_result[0]) ){
+        foreach($p_result as $link){
+            if(!empty($link['id'])){?>
+  
+    <h1><?php echo $link['title'] ;  ?></h1>
+    <h1><?php echo $link['semititle'] ;  ?></h1>
+    <h1><?php echo $link['catagory_id'] ;  ?></h1>
+    <h1><?php echo $link['catagory_name'] ;  ?></h1>
+    <h1><?php echo $link['rating_star'] ;  ?></h1>
+    <h1><?php echo $link['creator_name'] ;  ?></h1>
+    <h1><?php echo $link['images'] ;  ?></h1>
+    <h1><?php echo $link['language'] ;  ?></h1>
+    <h1><?php echo $link['total_hours'] ;  ?></h1>
+    <h1><?php echo $link['description'] ;  ?></h1>
+    <h1><?php echo $link['Price'] ;  ?></h1>
+                         
+     <?php
+                                                  $i++;
+                                       }}} else{
+                                      ?>
+                          
+                          <a>Not found </a>
+                          <?php
+                                       }
+                          ?>

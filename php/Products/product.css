@@ -1,0 +1,42 @@
+.links{
+    padding:8px;
+    color:darkblue;
+    font-size: 15px;
+    text-decoration:none;
+}
+.catagory_ul{
+    padding-top: 45px;
+}
+.catagories_links{
+
+    font-family: 'Kufam', cursive;
+    font-family: 'Lato', sans-serif;
+    padding:8px;
+    color:darkblue;
+    font-size: 15px;
+   /* width: 25%;*/
+    border-bottom: 1px solid rgb(207, 206, 206);
+    text-decoration:none;
+    list-style-type: none;
+}
+.catagory_bar{
+    border-right: black ;
+    border-width: 2px;
+    padding-left: 45px;
+}
+
+.top_products_col{
+padding-left: 25px;
+border-left: solid;
+border-left-width: 2px;
+border-left-color:  rgb(163, 160, 160);
+}
+
+.header_product{
+padding-top: 50px;
+padding-bottom: 20px;
+    font-family: 'Kufam', cursive;
+}
+.products_board{
+   margin-top: 00px;
+}

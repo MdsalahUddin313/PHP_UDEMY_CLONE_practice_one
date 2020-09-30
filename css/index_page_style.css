@@ -1,0 +1,62 @@
+h1{
+    color: white;
+}
+body{
+    background: whitesmoke;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.navitem{
+    flex: right;
+    padding-right: 45px;
+    align-items: flex-end;
+    text-decoration: none;
+  align-content: flex-end;
+}
+
+.navitem a{
+    text-decoration: none;
+    color: rgb(236, 25, 25);
+}
+.login a{
+    text-decoration: none;
+    color:rgb(41, 40, 40);
+}
+
+.navitem a:hover{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-decoration: none;
+    color: rgb(228, 124, 141);
+   
+}
+.navbar-color{
+    background-color: snow;
+}
+
+.footer-part-section{
+    flex:left;
+    padding-bottom: 5px;
+    background-color: rgb(71, 81, 90);
+
+}
+.footer_row{
+    padding-top:50px ;
+    padding: bottom 80px; 
+    
+}
+.footer_row li{
+    color: snow;
+}
+.home_carosoul_images{
+height: 350px;
+}
+.home-carsoul-part{
+    margin-bottom: 65px;
+}
+
+
