@@ -21,20 +21,29 @@
 8.Contact Us Page <br/>
 9.Embaded youtube and Google map <br/> 
 
+##Login page 
 <img src="images/Readme_images/login.JPG" width="500" height="500"> 
 
+##Registration page 
 <img src="images/Readme_images/registration.JPG"  width="500" height="500"> 
 
+##Adminpanel page 
 <img src="images/Readme_images/adminpanel.JPG"  width="500" height="500"> 
 
+##Catagories page 
 <img src="images/Readme_images/catagories.JPG"  width="500" height="500"> 
 
+##All Products page 
 <img src="images/Readme_images/allproducts.JPG"  width="500" height="500"> 
 
+##Single Products page 
 <img src="images/Readme_images/singleproduct_des.JPG"  width="500" height="500"> 
 
+##Contact us page 
 <img src="images/Readme_images/massage_page.JPG"  width="500" height="500"> 
 
+##Google Map 
 <img src="images/Readme_images/googlemap_embade.JPG"  width="500" height="500"> 
 
+##Youtube embade 
 <img src="images/Readme_images/youtube_embade.JPG"  width="500" height="500"> 
